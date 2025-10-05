@@ -9,16 +9,6 @@
       "ABT": { "priceId": "price_ghi789", "amount": 35 }
     }
   },
-   "degen shirt": {
-    "name": "degen shirt",
-    "description": "testy.",
-    "image": "https://12inchapps.com/image-bin/uploads/040b17f7ca8d327ee79a8afb4906c56b.jpeg",
-    "OneSize": {
-      "USD": { "priceId": "price_xyz000", "amount": 60 },
-      "USDC": { "priceId": "price_jkl111", "amount": 60 },
-      "ABT": { "priceId": "price_mno222", "amount": 60 }
-    }
-  },
   "boomboxHoodie": {
     "name": "Boombox Hoodie",
     "description": "Soft pullover hoodie with the OG Bass Money graphic.",
@@ -27,6 +17,16 @@
       "USD": { "priceId": "price_xyz000", "amount": 60 },
       "USDC": { "priceId": "price_jkl111", "amount": 60 },
       "ABT": { "priceId": "price_mno222", "amount": 60 }
+    }
+  },
+  "degenJacket": {
+    "name": "Degen Mode Jacket",
+    "description": "Windbreaker with reflective Bass Money patch — limited drop.",
+    "image": "https://12inchapps.com/image-bin/uploads/degen-jacket.jpeg",
+    "OneSize": {
+      "USD": { "priceId": "price_jacketUSD", "amount": 80 },
+      "USDC": { "priceId": "price_jacketUSDC", "amount": 80 },
+      "ABT": { "priceId": "price_jacketABT", "amount": 80 }
     }
   },
   "shadowCap": {
@@ -40,4 +40,5 @@
     }
   }
 }
+
 
