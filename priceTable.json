@@ -1,0 +1,34 @@
+{
+  "bboySticker": {
+    "OneSize": {
+      "USD": {
+        "priceId": "price_Vaa8QP9KLZUeghWBAASH4TtI",
+        "amount": 5
+      },
+      "USDC": {
+        "priceId": "price_iRGpC6mUDvj6K5pJU3zEaYaa",
+        "amount": 5
+      },
+      "ABT": {
+        "priceId": "price_hjcktG1lDSFLDX5kVvnrWWO7",
+        "amount": 5
+      }
+    }
+  },
+  "caddySticker": {
+    "OneSize": {
+      "USD": {
+        "priceId": "price_b6jDqqFrgWVqK8ToEbL8bQZe",
+        "amount": 5
+      },
+      "USDC": {
+        "priceId": "price_cp6U9Skw80yJg5OkNUvGlR59",
+        "amount": 5
+      },
+      "ABT": {
+        "priceId": "price_cxvkg12hGGqB73a1LC9hr91F",
+        "amount": 5
+      }
+    }
+  }
+}
