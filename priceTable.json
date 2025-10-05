@@ -1,55 +1,75 @@
 {
-  "stickers": {
-    "bboySticker": {
-      "name": "B-Boy Sticker",
-      "description": "Glossy 3x3 vinyl sticker — part of the Bass Money series.",
-      "image": "https://12inchapps.com/image-bin/uploads/bboy-sticker.jpeg",
-      "pricingKey": "bboySticker",
-      "category": "stickers"
-    },
-    "caddySticker": {
-      "name": "Caddy Sticker",
-      "description": "Slick ride, classic Bass Money flavor.",
-      "image": "https://12inchapps.com/image-bin/uploads/caddy-sticker.jpeg",
-      "pricingKey": "caddySticker",
-      "category": "stickers"
-    },
-    "arcblockSticker": {
-      "name": "ArcBlock Sticker",
-      "description": "OG cube holographic print — official Bass Money builder edition.",
-      "image": "https://12inchapps.com/image-bin/uploads/arcblock-sticker.jpeg",
-      "pricingKey": "arcblockSticker",
-      "category": "stickers"
-    },
-    "stickerPack": {
-      "name": "Sticker Pack",
-      "description": "Includes B-Boy, Caddy, and ArcBlock stickers in one pack.",
-      "image": "https://12inchapps.com/image-bin/uploads/sticker-pack.jpeg",
-      "pricingKey": "stickerPack",
-      "category": "stickers"
+  "bboySticker": {
+    "OneSize": {
+      "USD": { "priceId": "price_Vaa8QP9KLZUeghWBAASH4TtI", "amount": 5 },
+      "USDC": { "priceId": "price_iRGpC6mUDvj6K5pJU3zEaYaa", "amount": 5 },
+      "ABT": { "priceId": "price_hjcktG1lDSFLDX5kVvnrWWO7", "amount": 5 }
     }
   },
-
-  "clothes": {
-    "painterShirt": {
-      "name": "Painter Shirt",
-      "description": "Classic Painter design printed on heavyweight cotton — front and back artwork.",
-      "multiFront": [
-        "https://12inchapps.com/image-bin/uploads/painter-shirt-front.jpeg",
-        "https://12inchapps.com/image-bin/uploads/painter-shirt-back.jpeg"
-      ],
-      "pricingKey": "painterShirt",
-      "category": "clothes"
+  "caddySticker": {
+    "OneSize": {
+      "USD": { "priceId": "price_b6jDqqFrgWVqK8ToEbL8bQZe", "amount": 5 },
+      "USDC": { "priceId": "price_cp6U9Skw80yJg5OkNUvGlR59", "amount": 5 },
+      "ABT": { "priceId": "price_JBjCffqkCHUC7KCBF5OpR6SW", "amount": 5 }
+    }
+  },
+  "arcblockSticker": {
+    "OneSize": {
+      "USD": { "priceId": "price_r8bajqTyphoVCHpvn8ziSKQ2", "amount": 5 },
+      "USDC": { "priceId": "price_00drQPcqUvqcaSf29T8oJs3f", "amount": 5 },
+      "ABT": { "priceId": "price_pf4ctJC2s6tCiHES3mFUZBms", "amount": 5 }
+    }
+  },
+  "stickerPack": {
+    "OneSize": {
+      "USD": { "priceId": "price_XnLO7xlDiLS0kRwOdEV0sHwZ", "amount": 10 },
+      "USDC": { "priceId": "price_o3pBpISlcy8IGUdzeXygEgqu", "amount": 10 },
+      "ABT": { "priceId": "price_6P9uMkpauO227OU8cJbWrPG5", "amount": 10 }
+    }
+  },
+  "painterShirt": {
+    "S": {
+      "USD": { "priceId": "price_hfUEjWwOa1CdnaVLLZJeiOrp", "amount": 50 },
+      "USDC": { "priceId": "price_RlZslxuGIZHiYCwgj14iwXTg", "amount": 50 },
+      "ABT": { "priceId": "price_ZoFgQ3qLnoifJIJdGB5Br7up", "amount": 65 }
     },
-    "bboyShirt": {
-      "name": "B-Boy Shirt",
-      "description": "The iconic Bass Money B-Boy shirt with front and back prints.",
-      "multiFront": [
-        "https://12inchapps.com/image-bin/uploads/bboy-shirt-front.jpeg",
-        "https://12inchapps.com/image-bin/uploads/bboy-shirt-back.jpeg"
-      ],
-      "pricingKey": "bboyShirt",
-      "category": "clothes"
+    "M": {
+      "USD": { "priceId": "price_Dc5rcl1uPhXOK1nR6HxQ9Z5T", "amount": 50 },
+      "USDC": { "priceId": "price_oTQVZZYhmgHa11BvfhuEqehR", "amount": 50 },
+      "ABT": { "priceId": "price_7TcbexdKwHIAQ9Kz59WbsA7h", "amount": 65 }
+    },
+    "L": {
+      "USD": { "priceId": "price_jiFCAwIDb7UaXYKytxgArK1v", "amount": 50 },
+      "USDC": { "priceId": "price_dqVZ9kgtLUZAfkcUbxDtlGas", "amount": 50 },
+      "ABT": { "priceId": "price_FiYeZ04pY9T4tOxVFChNTOFY", "amount": 65 }
+    },
+    "XL": {
+      "USD": { "priceId": "price_be3sdVmuiqqAX1EcZBy1IwwA", "amount": 50 },
+      "USDC": { "priceId": "price_dWPLjOuJOH2B3hhWuKRFKtyK", "amount": 50 },
+      "ABT": { "priceId": "price_GxbTo7sMM47cvNb3HCTw94X0", "amount": 65 }
+    }
+  },
+  "bboyShirt": {
+    "S": {
+      "USD": { "priceId": "price_kRDQJFfV0yFLp9BkoEhNohv1", "amount": 50 },
+      "USDC": { "priceId": "price_sBQGDIDFW41xtfMQzz54DILp", "amount": 50 },
+      "ABT": { "priceId": "price_DoVJq5WsmtWkxHSnkIjRRfDf", "amount": 65 }
+    },
+    "M": {
+      "USD": { "priceId": "price_kjBaArA1sbhEuegXCx9ED2pW", "amount": 50 },
+      "USDC": { "priceId": "price_Hqoa0yEtArwWKFRRz57sq1bQ", "amount": 50 },
+      "ABT": { "priceId": "price_RNftTk5l71vSKEzmVqVcE8qR", "amount": 65 }
+    },
+    "L": {
+      "USD": { "priceId": "price_XY4SDwwJoyn7xO75BSLshNpI", "amount": 50 },
+      "USDC": { "priceId": "price_ItpKYG93HxzFoaSDAu8pAHUF", "amount": 50 },
+      "ABT": { "priceId": "price_fXwmUs5CF9A78cqHrNhqKX1c", "amount": 65 }
+    },
+    "XL": {
+      "USD": { "priceId": "price_cjekxyw6g63pcJEFBp7cc5Rq", "amount": 50 },
+      "USDC": { "priceId": "price_Jdvg2MULsFa8fiVvtnVxKyBS", "amount": 50 },
+      "ABT": { "priceId": "price_7y4KCZIH0lnNn5THCWJNnYJM", "amount": 65 }
     }
   }
 }
+
