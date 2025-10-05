@@ -1,34 +1,22 @@
 {
-  "bboySticker": {
+  "bassTshirt": {
+    "name": "Bass Money Tee",
+    "description": "Classic heavyweight tee with front print.",
+    "image": "https://12inchapps.com/image-bin/uploads/your-shirt-image.png",
     "OneSize": {
-      "USD": {
-        "priceId": "price_Vaa8QP9KLZUeghWBAASH4TtI",
-        "amount": 5
-      },
-      "USDC": {
-        "priceId": "price_iRGpC6mUDvj6K5pJU3zEaYaa",
-        "amount": 5
-      },
-      "ABT": {
-        "priceId": "price_hjcktG1lDSFLDX5kVvnrWWO7",
-        "amount": 5
-      }
+      "USD": { "priceId": "price_abc123", "amount": 35 },
+      "USDC": { "priceId": "price_def456", "amount": 35 },
+      "ABT": { "priceId": "price_ghi789", "amount": 35 }
     }
   },
-  "caddySticker": {
+  "boomboxHoodie": {
+    "name": "Boombox Hoodie",
+    "description": "Soft pullover hoodie with the OG Bass Money graphic.",
+    "image": "https://12inchapps.com/image-bin/uploads/boombox-hoodie.png",
     "OneSize": {
-      "USD": {
-        "priceId": "price_b6jDqqFrgWVqK8ToEbL8bQZe",
-        "amount": 5
-      },
-      "USDC": {
-        "priceId": "price_cp6U9Skw80yJg5OkNUvGlR59",
-        "amount": 5
-      },
-      "ABT": {
-        "priceId": "price_cxvkg12hGGqB73a1LC9hr91F",
-        "amount": 5
-      }
+      "USD": { "priceId": "price_xyz000", "amount": 60 },
+      "USDC": { "priceId": "price_jkl111", "amount": 60 },
+      "ABT": { "priceId": "price_mno222", "amount": 60 }
     }
   }
 }
