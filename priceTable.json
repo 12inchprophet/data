@@ -1,44 +1,55 @@
 {
-  "bassTshirt": {
-    "name": "Bass Money Tee",
-    "description": "Classic heavyweight tee with front print.",
-    "image": "https://12inchapps.com/image-bin/uploads/040b17f7ca8d327ee79a8afb4906c56b.jpeg",
-    "OneSize": {
-      "USD": { "priceId": "price_abc123", "amount": 35 },
-      "USDC": { "priceId": "price_def456", "amount": 35 },
-      "ABT": { "priceId": "price_ghi789", "amount": 35 }
+  "stickers": {
+    "bboySticker": {
+      "name": "B-Boy Sticker",
+      "description": "Glossy 3x3 vinyl sticker — part of the Bass Money series.",
+      "image": "https://12inchapps.com/image-bin/uploads/bboy-sticker.jpeg",
+      "pricingKey": "bboySticker",
+      "category": "stickers"
+    },
+    "caddySticker": {
+      "name": "Caddy Sticker",
+      "description": "Slick ride, classic Bass Money flavor.",
+      "image": "https://12inchapps.com/image-bin/uploads/caddy-sticker.jpeg",
+      "pricingKey": "caddySticker",
+      "category": "stickers"
+    },
+    "arcblockSticker": {
+      "name": "ArcBlock Sticker",
+      "description": "OG cube holographic print — official Bass Money builder edition.",
+      "image": "https://12inchapps.com/image-bin/uploads/arcblock-sticker.jpeg",
+      "pricingKey": "arcblockSticker",
+      "category": "stickers"
+    },
+    "stickerPack": {
+      "name": "Sticker Pack",
+      "description": "Includes B-Boy, Caddy, and ArcBlock stickers in one pack.",
+      "image": "https://12inchapps.com/image-bin/uploads/sticker-pack.jpeg",
+      "pricingKey": "stickerPack",
+      "category": "stickers"
     }
   },
-  "boomboxHoodie": {
-    "name": "Boombox Hoodie",
-    "description": "Soft pullover hoodie with the OG Bass Money graphic.",
-    "image": "https://12inchapps.com/image-bin/uploads/boombox-hoodie.png",
-    "OneSize": {
-      "USD": { "priceId": "price_xyz000", "amount": 60 },
-      "USDC": { "priceId": "price_jkl111", "amount": 60 },
-      "ABT": { "priceId": "price_mno222", "amount": 60 }
-    }
-  },
-  "degenJacket": {
-    "name": "Degen Mode Jacket",
-    "description": "Windbreaker with reflective Bass Money patch — limited drop.",
-    "image": "https://12inchapps.com/image-bin/uploads/degen-jacket.jpeg",
-    "OneSize": {
-      "USD": { "priceId": "price_jacketUSD", "amount": 80 },
-      "USDC": { "priceId": "price_jacketUSDC", "amount": 80 },
-      "ABT": { "priceId": "price_jacketABT", "amount": 80 }
-    }
-  },
-  "shadowCap": {
-    "name": "Shadow Realm Cap",
-    "description": "Structured snapback hat with embroidered Bass Money logo — clean and bold.",
-    "image": "https://12inchapps.com/image-bin/uploads/2d5e1e13f213ae4f86c82ff9b1e9f0a7.jpeg",
-    "OneSize": {
-      "USD": { "priceId": "price_capUSD", "amount": 30 },
-      "USDC": { "priceId": "price_capUSDC", "amount": 30 },
-      "ABT": { "priceId": "price_capABT", "amount": 30 }
+
+  "clothes": {
+    "painterShirt": {
+      "name": "Painter Shirt",
+      "description": "Classic Painter design printed on heavyweight cotton — front and back artwork.",
+      "multiFront": [
+        "https://12inchapps.com/image-bin/uploads/painter-shirt-front.jpeg",
+        "https://12inchapps.com/image-bin/uploads/painter-shirt-back.jpeg"
+      ],
+      "pricingKey": "painterShirt",
+      "category": "clothes"
+    },
+    "bboyShirt": {
+      "name": "B-Boy Shirt",
+      "description": "The iconic Bass Money B-Boy shirt with front and back prints.",
+      "multiFront": [
+        "https://12inchapps.com/image-bin/uploads/bboy-shirt-front.jpeg",
+        "https://12inchapps.com/image-bin/uploads/bboy-shirt-back.jpeg"
+      ],
+      "pricingKey": "bboyShirt",
+      "category": "clothes"
     }
   }
 }
-
-
