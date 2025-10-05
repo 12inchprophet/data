@@ -9,10 +9,10 @@
       "ABT": { "priceId": "price_ghi789", "amount": 35 }
     }
   },
-   "boomboxHoodies": {
-    "name": "Boombox Hoodie",
-    "description": "Soft pullover hoodie with the OG Bass Money graphic.",
-    "image": "https://12inchapps.com/image-bin/uploads/boombox-hoodie.png",
+   "degen shirt": {
+    "name": "degen shirt",
+    "description": "testy.",
+    "image": "https://12inchapps.com/image-bin/uploads/040b17f7ca8d327ee79a8afb4906c56b.jpeg",
     "OneSize": {
       "USD": { "priceId": "price_xyz000", "amount": 60 },
       "USDC": { "priceId": "price_jkl111", "amount": 60 },
