@@ -18,15 +18,15 @@
       "USDC": { "priceId": "price_jkl111", "amount": 60 },
       "ABT": { "priceId": "price_mno222", "amount": 60 }
     }
-    },
-  "boomboxHoodie": {
-    "name": "Boombox Hoodie",
-    "description": "Soft pullover hoodie with the OG Bass Money graphic.",
-    "image": "https://12inchapps.com/image-bin/uploads/boombox-hoodie.png",
+  },
+  "shadowCap": {
+    "name": "Shadow Realm Cap",
+    "description": "Structured snapback hat with embroidered Bass Money logo — clean and bold.",
+    "image": "https://12inchapps.com/image-bin/uploads/2d5e1e13f213ae4f86c82ff9b1e9f0a7.jpeg",
     "OneSize": {
-      "USD": { "priceId": "price_xyz000", "amount": 60 },
-      "USDC": { "priceId": "price_jkl111", "amount": 60 },
-      "ABT": { "priceId": "price_mno222", "amount": 60 }
+      "USD": { "priceId": "price_capUSD", "amount": 30 },
+      "USDC": { "priceId": "price_capUSDC", "amount": 30 },
+      "ABT": { "priceId": "price_capABT", "amount": 30 }
     }
   }
 }
