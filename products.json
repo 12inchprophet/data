@@ -21,9 +21,16 @@
       "pricingKey": "arcblockSticker",
       "category": "stickers"
     },
+    "painterSticker": {
+      "name": "12 Inch Painter Sticker",
+      "description": "Glossy vinyl sticker featuring the 12 Inch Painter — limited run collectible.",
+      "image": "https://12inchapps.com/image-bin/uploads/c00da5eb9fcdf1473c2c5108ddf3fe53.png",
+      "pricingKey": "painterSticker",
+      "category": "stickers"
+    },
     "stickerPack": {
       "name": "Sticker Pack",
-      "description": "Includes B-Boy, Caddy, and ArcBlock stickers in one pack.",
+      "description": "Includes B-Boy, Caddy, ArcBlock, and Painter stickers in one pack.",
       "image": "https://12inchapps.com/image-bin/uploads/8f31aad9cf0a0f6b951927285e8e84e8.png",
       "pricingKey": "stickerPack",
       "category": "stickers"
