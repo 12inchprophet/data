@@ -24,7 +24,7 @@
     "OneSize": {
       "USD": { "priceId": "price_3UBytq5ufqojLpH7U0HIrUQF", "amount": 5 },
       "USDC": { "priceId": "price_GWZSjhBsUfw6DXmU5OJgHgnK", "amount": 5 },
-      "ABT": { "priceId": "price_mt2deoMc1BSQiY7kRuAwuJJq", "amount": 10 }
+      "ABT": { "priceId": "price_mt2deoMc1BSQiY7kRuAwuJJq", "amount": 5 }
     }
   },
   "stickerPack": {
