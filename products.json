@@ -57,6 +57,16 @@
       ],
       "pricingKey": "bboyShirt",
       "category": "clothes"
+    },
+    "testTee": {
+      "name": "Test Tee",
+      "description": "Experimental shirt for testing layout, hover, and pricing display.",
+      "multiFront": [
+        "https://12inchapps.com/image-bin/uploads/040b17f7ca8d327ee79a8afb4906c56b.jpeg",
+        "https://12inchapps.com/image-bin/uploads/bbc864464fabea5463f5e2b7ce3a6544.jpeg"
+      ],
+      "pricingKey": "testTee",
+      "category": "clothes"
     }
   }
 }
