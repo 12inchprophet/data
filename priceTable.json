@@ -2,7 +2,7 @@
   "bboySticker": {
     "OneSize": {
       "USD": { "priceId": "price_Vaa8QP9KLZUeghWBAASH4TtI", "amount": 5 },
-      "USDC": { "priceId": "price_iRGpC6mUDvj6K5pJU3zEaYaa", "amount": 5 },
+      "USDC": { "priceId": "price_5s5woo6NSq9eSnryEdWrooZI", "amount": 5 },
       "ABT": { "priceId": "price_CwAHq9bi5yOPJlkmYzjxTPhK", "amount": 5 }
     }
   },
@@ -23,7 +23,7 @@
   "painterSticker": {
     "OneSize": {
       "USD": { "priceId": "price_3UBytq5ufqojLpH7U0HIrUQF", "amount": 5 },
-      "USDC": { "priceId": "price_GWZSjhBsUfw6DXmU5OJgHgnK", "amount": 5 },
+      "USDC": { "priceId": "price_fYBNCc0rVWpKcXznyBKDp3Lf", "amount": 5 },
       "ABT": { "priceId": "price_mt2deoMc1BSQiY7kRuAwuJJq", "amount": 5 }
     }
   },
